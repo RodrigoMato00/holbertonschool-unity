@@ -130,6 +130,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 513813772788508134, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 198f8858df898224cb59bc892d5e2106, type: 2}
     - target: {fileID: 4588977208465843117, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_Name
       value: Ball
@@ -187,6 +191,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 513813772788508134, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 198f8858df898224cb59bc892d5e2106, type: 2}
     - target: {fileID: 4588977208465843117, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_Name
       value: Ball
@@ -244,6 +252,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 513813772788508134, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 198f8858df898224cb59bc892d5e2106, type: 2}
     - target: {fileID: 4588977208465843117, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_Name
       value: Ball
@@ -396,6 +408,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 513813772788508134, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 198f8858df898224cb59bc892d5e2106, type: 2}
     - target: {fileID: 4588977208465843117, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_Name
       value: Ball
@@ -453,6 +469,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 513813772788508134, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 198f8858df898224cb59bc892d5e2106, type: 2}
     - target: {fileID: 4588977208465843117, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_Name
       value: Ball
