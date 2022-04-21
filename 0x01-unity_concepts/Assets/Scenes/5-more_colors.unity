@@ -258,7 +258,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 4cf0ddf6e80c89d4eabead36a6c5f191, type: 2}
     - target: {fileID: 4588977208465843117, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_Name
-      value: green Ball
+      value: Green Ball
       objectReference: {fileID: 0}
     - target: {fileID: 6783396745159582732, guid: 479b624a2ed9aef46be4ca95ce4b4c36, type: 3}
       propertyPath: m_RootOrder
